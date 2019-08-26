@@ -1,0 +1,25 @@
+PSEUDOCODE
+
+1.        Masukan ( nilai ) // memberikan  tipe data pada masing-masing variabel
+2.        Baca (nilai) // membaca masukan dari user dan menempatkan ke variabel nilai
+3.        
+4.        JIKA Jumlah Nilai >= 80  DAN <=100 // lakukan statement  JIKA saat Jumlah Nilai  lebih dari //
+·           Lakukan print  nilai A. 
+
+5.       JIKA Jumlah Nilai >= 69  DAN <=79 // lakukan statement  JIKA saat Jumlah Nilai  lebih dari //
+          Lakukan print  nilai B
+
+6.        JIKA Jumlah Nilai >= 50  DAN <=64 // lakukan statement  JIKA saat Jumlah Nilai  lebih dari //
+·           Lakukan print  nilai C. 
+
+7.         JIKA Jumlah Nilai >= 35  DAN <=49 // lakukan statement  JIKA saat Jumlah Nilai  lebih dari //
+·           Lakukan print  nilai D
+
+8.             JIKA Jumlah Nilai >= 0  DAN <=34 // lakukan statement  JIKA saat Jumlah Nilai  lebih dari //
+·           Lakukan print  nilai E
+
+ 9.             JIKA Jumlah Nilai >= 100  DAN <=0 // lakukan statement  JIKA saat Jumlah Nilai  lebih dari //
+           Lakukan print  nilai INVALID
+
+            // akhir dari statement jika
+
